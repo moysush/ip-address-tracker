@@ -52,7 +52,7 @@ onMounted(async () => {
     `https://geo.ipify.org/api/v2/country,city?apiKey=${apiKey}`
   );
   ipAddress.value = response.data.ip;
-  location.value = `${response.data.location.city}, ${response.data.location.country}, ${response.data.location.geonameId}`;
+  location.value = `${response.data.location.city}, ${response.data.location.country} ${response.data.location.geonameId}`;
   timezone.value = response.data.location.timezone;
   isp.value = response.data.isp;
   lat.value = response.data.location.lat;
