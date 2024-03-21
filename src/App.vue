@@ -2,22 +2,23 @@
 import { onMounted, ref } from "vue";
 import axios from "axios";
 import L from "leaflet";
-// import key from "../apiKey.json";
+import key from "../apiKey.json";
 
 // map and apiKey
 const mapContainer = ref("");
 const map = ref("");
-const marker = "#"; // not a ref
+const marker = ref("");
+const apiKey = key.theKey;
 // infos to get
-const ipAddress = ref("8.8.8.8");
-const location = ref("Dhaka");
-const timezone = ref("");
-const isp = ref("Google");
+const ipAddress = ref("1.1.1.1");
+const location = ref("Research, AU, 2151718");
+const timezone = ref("+11:00");
+const isp = ref("Cloudflare, Inc.");
 // inputData
 const inputData = ref("");
 // lat & lng
-const lat = ref("51.505");
-const lng = ref("-0.09");
+const lat = ref("-37.7");
+const lng = ref("145.18333");
 
 // Draws the map on the screen
 function mapDraw() {
@@ -28,7 +29,7 @@ function mapDraw() {
   );
   // marker icon
   var customIcon = L.icon({
-    iconUrl: "../images/icon-location.svg",
+    iconUrl: "./icon-location.svg",
     iconSize: [30, 40],
     iconAnchor: [15, 40],
   });
