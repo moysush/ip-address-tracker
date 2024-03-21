@@ -209,7 +209,7 @@ async function search() {
     position: fixed;
     top: 17.5rem !important;
     left: 0;
-    width: 100vw;
+    width: 100%;
     height: 100%;
   }
   .card-body {
@@ -258,7 +258,7 @@ async function search() {
   position: fixed;
   top: 12rem;
   left: 0;
-  width: 100vw;
+  width: 100%;
   height: 100%;
 }
 
