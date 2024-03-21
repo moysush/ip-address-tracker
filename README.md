@@ -28,7 +28,7 @@ The IP Address Tracker is a web application that allows users to view their own 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 
 ## My process
 
@@ -55,9 +55,9 @@ The IP Address Tracker is a web application that allows users to view their own 
 
 ### Useful resources
 
-Icons: [Reshot - Free SVG Icons](https://www.reshot.com/)
-SVG to ICO Converter: [FreeConvert - ICO Converter](https://www.freeconvert.com/ico-converter)
+- Icons: [Reshot - Free SVG Icons](https://www.reshot.com/)
+- SVG to ICO Converter: [FreeConvert - ICO Converter](https://www.freeconvert.com/ico-converter)
 
 ## Acknowledgments
 
-This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io), a platform designed to help you enhance your coding skills by building realistic projects. 
+This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-vuejs-leafletjs-and-axios-YBwPaYYv5s), a platform designed to help you enhance your coding skills by building realistic projects. 
