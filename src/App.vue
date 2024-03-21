@@ -2,7 +2,7 @@
 import { onMounted, ref } from "vue";
 import axios from "axios";
 import L from "leaflet";
-import key from "../apiKey.json";
+import key from "./apiKey.json";
 
 // map and apiKey
 const mapContainer = ref("");
