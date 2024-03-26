@@ -51,6 +51,6 @@ Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 - Icons: [Reshot - Free SVG Icons](https://www.reshot.com/)
 - SVG to ICO Converter: [FreeConvert - ICO Converter](https://www.freeconvert.com/ico-converter)
 
-## Acknowledgments
+### Acknowledgments
 
 This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-vuejs-leafletjs-and-axios-YBwPaYYv5s).
