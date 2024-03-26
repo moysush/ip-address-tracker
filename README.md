@@ -2,6 +2,8 @@
 
 The IP Address Tracker is a web application that allows users to view their own IP address information and search for information about any other IP address or domain.
 
+Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
+
 ## Table of contents
 
 - [Features](#features)
@@ -22,10 +24,6 @@ The IP Address Tracker is a web application that allows users to view their own 
 
 ![desktop](./images/screenshot-desktop.png)
 ![mobile](./images/screenshot-mobile.png)
-
-### Links
-
-- Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 
 ### Technologies Used
 
