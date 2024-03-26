@@ -8,7 +8,6 @@ Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 
 - [Features](#features)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [Technologies Used](#technologies-used)
 - [Lessons Learned](#lessons-learned)
 - [Useful resources](#useful-resources)
