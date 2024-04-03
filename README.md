@@ -1,4 +1,4 @@
-# IP address tracker
+# IP Address Tracker
 
 The IP Address Tracker is a web application that allows users to view their own IP address information and search for information about any other IP address or domain.
 
