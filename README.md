@@ -1,6 +1,6 @@
 # IP Address Tracker
 
-The IP Address Tracker is a web application that allows users to view their own IP address information and search for information about any other IP address or domain.
+This is an IP Address Tracker, empowering users to access their own IP address details and explore information on any IP address or domain. Utilized IP Geolocation API, Leaflet.js, and Axios API for seamless functionality.
 
 Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 
