@@ -27,10 +27,8 @@ Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 ### Technologies Used
 
 - Frontend: HTML, CSS, JavaScript (Vue.js framework)
-- Mapping: Leaflet.js for interactive maps
-- API Integration: Axios for fetching data from the IP Geolocation API
-- Deployment: Hosted on github pages
-
+- API Integration: Leaflet.js, IP Geolocation API and Axios API
+  
 ### Lessons Learned
 
 - **Efficient Data Fetching**: Utilized Axios to seamlessly fetch JSON data and perform HTTP requests, enhancing the project's functionality.
