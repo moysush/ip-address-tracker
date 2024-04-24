@@ -1,6 +1,6 @@
 # IP Address Tracker
 
-This is an IP Address Tracker, empowering users to access their own IP address details and explore information on any IP address or domain. Utilized IP Geolocation API, Leaflet.js, and Axios API for seamless functionality.
+Empower users to effortlessly explore IP address details and domains. Utilized IP Geolocation API, Leaflet.js, advanced CSS and Axios API for seamless functionality.
 
 Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
 
