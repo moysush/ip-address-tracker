@@ -2,7 +2,7 @@
 
 This app empowers users to effortlessly explore IP address details and domains. It leverages IP Geolocation API, Leaflet.js, and Axios API for seamless functionality.
 
-Live Site: [IP Address Tracker](https://sushcod3.github.io/ip-address-tracker/)
+Live Site: [IP Address Tracker](https://isushmoy.github.io/ip-address-tracker/)
 
 ## Table of contents
 
